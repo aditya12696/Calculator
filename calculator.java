@@ -15,4 +15,8 @@ class calculator{
     public static int multi(int a, int b){
         return a*b;
     }
+    // 5 code 
+    public static float div(int a, int b){
+        return a/b;
+    }
 }
