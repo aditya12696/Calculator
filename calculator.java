@@ -11,4 +11,8 @@ class calculator{
     public static int sub(int a, int b){
         return a-b;
     }
+    // 4 code 
+    public static int multi(int a, int b){
+        return a*b;
+    }
 }
