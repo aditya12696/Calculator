@@ -3,4 +3,9 @@ class calculator{
         // first code 
         System.out.println("this is calculator");
     }
+    // second code
+    public static int add(int a, int b){
+        return a+b;
+    }
+    
 }
